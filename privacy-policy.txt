@@ -3,7 +3,7 @@ Privacy Policy
 Privacy Policy for VideoToWallpaper
 Effective Date: April 5, 2025
 
-JoMoreDev ("we," "us," "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect information related to your use of the VideoToWallpaper mobile application ("App").
+MiniPanda ("we," "us," "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect information related to your use of the VideoToWallpaper mobile application ("App").
 
 1. Information We Collect
 Photos Library Access: The App requires access to your iPhone Photos Library to select videos and save Live Photos. We do not collect, store, or share your photos or videos.
@@ -29,7 +29,7 @@ We take reasonable steps to protect data, but no system is 100% secure.
 5. Your Rights
 You can revoke Photos Library access at any time through your iPhone settings, though this will limit the App’s functionality.
 To opt out of analytics tracking, you can disable ad tracking in your device settings (e.g., Limit Ad Tracking on iOS).
-Contact us at JoMoreDev@gmail.com with any privacy questions or requests.
+Contact us at minipanda@ukr.net with any privacy questions or requests.
 
 6. Children
 The App is not intended for children under 13. We do not knowingly collect data from them.
@@ -38,4 +38,4 @@ The App is not intended for children under 13. We do not knowingly collect data 
 We may update this Privacy Policy. The latest version will be posted on our website [e.g., videotowallpaper.com/privacy].
 
 8. Contact Us
-For privacy-related questions, email us at JoMoreDev@gmail.com.
+For privacy-related questions, email us at minipanda@ukr.net.
