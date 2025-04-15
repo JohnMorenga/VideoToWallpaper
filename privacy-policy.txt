@@ -18,6 +18,7 @@ Support: If you email us, we use your contact information only to respond to you
 3. How We Share Information
 We do not sell or share your personal data with third parties, except:
 Facebook: Limited analytics data (e.g., Device ID) is shared with Facebook via the SDK for ad tracking, as described in their Data Policy.
+Google AdMob: Limited analytics data (e.g., Device ID) is shared with Google AdMob for ad tracking, as described in their Privacy Policy (https://policies.google.com/privacy).
 Service Providers: We may use third-party services for analytics or hosting, but they do not access your personal data.
 Legal Requirements: We may disclose data if required by law.
 
