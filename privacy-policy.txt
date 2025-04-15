@@ -7,12 +7,12 @@ MiniPanda ("we," "us," "our") respects your privacy. This Privacy Policy explain
 
 1. Information We Collect
 Photos Library Access: The App requires access to your iPhone Photos Library to select videos and save Live Photos. We do not collect, store, or share your photos or videos.
-Analytics Data: We use the Facebook SDK to collect limited data, such as your Device ID, for advertising and analytics purposes (e.g., tracking app installs and ad performance).
+Analytics and Advertising Data: We use the Facebook SDK and Google AdMob to collect limited data, such as your Device ID, for advertising and analytics purposes (e.g., tracking app installs and ad performance). With your permission, we may use this data to provide personalized ads to enhance your experience.
 No Personal Data: We do not collect personal information like your name, email, or location unless you contact us directly.
 
 2. How We Use Information
 App Functionality: Photos Library access is used solely to convert videos into Live Photos and save them back to your device.
-Analytics and Advertising: Data collected via the Facebook SDK helps us measure ad performance, optimize campaigns, and improve the App. This data is anonymized and used in aggregate form.
+Analytics and Advertising: Data collected via the Facebook SDK and Google AdMob helps us measure ad performance, optimize campaigns, and improve the App. This data is anonymized and used in aggregate form. If you grant permission, we use it to show personalized ads.
 Support: If you email us, we use your contact information only to respond to your inquiry.
 
 3. How We Share Information
@@ -24,12 +24,12 @@ Legal Requirements: We may disclose data if required by law.
 
 4. Storage and Security
 We do not store your photos, videos, or Live Photos. All processing occurs on your device.
-Analytics data collected via the Facebook SDK is stored securely by Facebook per their policies.
+Analytics data collected via the Facebook SDK and Google AdMob is stored securely by these providers per their policies.
 We take reasonable steps to protect data, but no system is 100% secure.
 
 5. Your Rights
 You can revoke Photos Library access at any time through your iPhone settings, though this will limit the App’s functionality.
-To opt out of analytics tracking, you can disable ad tracking in your device settings (e.g., Limit Ad Tracking on iOS).
+You can opt out of personalized ads by denying tracking permission when prompted or by disabling ad tracking in your device settings (e.g., Limit Ad Tracking on iOS).
 Contact us at minipanda@ukr.net with any privacy questions or requests.
 
 6. Children
