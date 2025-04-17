@@ -21,7 +21,7 @@ You may not copy, modify, distribute, decompile, attempt to extract the source c
 4. Freemium and PRO Purchase
 The App is free to use with a limit of creating up to 3 Live Photos.
 To remove this limit and unlock unlimited use, you may purchase the PRO version via a one-time in-app purchase ("PRO"). The price and terms are displayed within the App and may be updated from time to time.
-Payments are processed by Apple through the App Store and are subject to its refund policies (https://support.apple.com/HT204609). All sales are final unless otherwise determined by Apple. Refunds are not guaranteed by us.
+Payments are processed by Apple through the App Store and are subject to its refund policies (https://support.apple.com/en-us/118223). All sales are final unless otherwise determined by Apple. Refunds are not guaranteed by us.
 
 5. Permissions
 The App requires access to your Photos Library to select videos and save Live Photos. This permission is used solely for the App’s functionality and does not involve collecting or storing your personal data. You may revoke Photos Library access at any time through your iOS device settings, though this will limit the App’s functionality.
