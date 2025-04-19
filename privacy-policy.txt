@@ -1,44 +1,65 @@
 Privacy Policy
 
 Privacy Policy for VideoToWallpaper
+
 Effective Date: April 5, 2025
 
 MiniPanda ("we," "us," "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect information related to your use of the VideoToWallpaper mobile application ("App").
 
 1. Information We Collect
+
 Photos Library Access: The App requires access to your iPhone Photos Library to select videos and save Live Photos. We do not collect, store, or share your photos or videos.
-Analytics and Advertising Data: With your explicit consent via the App Tracking Transparency (ATT) prompt, we may collect a Device ID using the Facebook SDK and Google AdMob for advertising and analytics (e.g., tracking app installs and ad performance). We do not collect personal information like your name, email, or location unless you contact us directly.
+
+Analytics Data: With your explicit consent via the App Tracking Transparency (ATT) prompt, we may collect a Device ID using the Facebook SDK for analytics (e.g., tracking app installs). We do not collect personal information like your name, email, or location unless you contact us directly.
+
 In-App Purchases: Apple processes transaction data (e.g., Apple ID, payment method) on our behalf for in-app purchases. We do not collect, store, or share this information with third parties.
 
 2. How We Use Information
+
 App Functionality: Photos Library access is used solely to convert videos into Live Photos and save them back to your device.
-Analytics and Advertising: Data collected via the Facebook SDK and Google AdMob helps us measure ad performance, optimize campaigns, improve the App, and deliver personalized ads with your consent. This data is anonymized, used in aggregate form, and helps enhance your user experience.
+
+Analytics: Data collected via the Facebook SDK helps us measure app performance, optimize user experience, and track app installs with your consent. This data is anonymized, used in aggregate form, and helps enhance your user experience.
+
 Support: If you email us, we use your contact information only to respond to your inquiry.
+
 In-App Purchases: Purchase data is used solely to process transactions and unlock PRO features.
 
 3. How We Share Information
-We do not sell or share your data with third-party advertisers beyond Facebook and Google AdMob, except as described in this policy.
-Facebook: Limited analytics data (e.g., Device ID) is shared with Facebook via the SDK for ad tracking, as described in their Data Policy (https://www.facebook.com/privacy/policy).
-Google AdMob: Limited analytics data (e.g., Device ID) is shared with Google AdMob for ad tracking, as described in their Privacy Policy (https://policies.google.com/privacy).
+
+We do not share your data with third parties except as described in this policy.
+
+Facebook: Limited analytics data (e.g., Device ID) is shared with Facebook via the SDK for tracking app installs, as described in their Data Policy (https://www.facebook.com/privacy/policy).
+
 Apple: Apple processes transaction data for in-app purchases as part of its payment services.
+
 Service Providers: We may use third-party services for analytics or hosting, but they do not access your personal data.
+
 Legal Requirements: We may disclose data if required by law.
 
 4. Storage and Security
+
 We do not store your photos, videos, or Live Photos. All processing occurs on your device.
-Analytics data is stored by Facebook and Google AdMob according to their respective retention policies, typically for the duration necessary to fulfill the purposes outlined in this policy.
+
+Analytics data is stored by Facebook according to their retention policies, typically for the duration necessary to fulfill the purposes outlined in this policy.
+
 We use on-device processing and encryption to protect your data, but no system is 100% secure. In the unlikely event of a data breach, we will notify affected users as required by applicable law.
 
 5. Your Rights
+
 You can revoke Photos Library access at any time through your iPhone settings, though this will limit the App’s functionality.
-You can opt out of personalized ads by denying tracking permission via the ATT prompt or disabling ad tracking in your device settings (e.g., Limit Ad Tracking on iOS).
+
+You can opt out of analytics tracking by denying permission via the ATT prompt or disabling tracking in your device settings.
+
 You have the right to request access to or deletion of any data we may hold about you by contacting us at minipanda@ukr.net. We will respond to your request within 30 days.
 
 6. Children
-The App is not intended for children under 13. If we learn that we have collected data from a child under 13, we will delete it promptly.
+
+The App is rated 4+ and is suitable for users of all ages. We do not knowingly collect personal data from children. If we learn that we have collected data from a child in violation of applicable law, we will delete it promptly.
 
 7. Changes
+
 We may update this Privacy Policy and will notify you of significant changes via an in-app notification or email. The latest version will be available at https://videotowallpaper.com/privacy.html.
 
 8. Contact Us
+
 For privacy-related questions, email us at minipanda@ukr.net or visit https://videotowallpaper.com.
