@@ -44,26 +44,22 @@ All rights to the App, including its design, code, and functionality, belong to 
 
 You are responsible for the videos you upload into the App. By using the App, you confirm you have the right to use this content. You may not use any App content (e.g., icons, graphics) outside the App without our written permission.
 
-7. Analytics
-
-We may track app performance and installs through third-party platforms, such as Facebook. To support this, we use the Facebook SDK, which collects limited data (e.g., Device ID) for analytics purposes. This data collection occurs only with your explicit consent via the App Tracking Transparency (ATT) prompt. See our Privacy Policy for details.
-
-8. Limitation of Liability
+7. Limitation of Liability
 
 The App is provided "as is." We do not guarantee it will be error-free, uninterrupted, or compatible with all devices.
 
 We are not liable for any damages arising from your use or inability to use the App, including loss of data or content. You are responsible for backing up your Live Photos or other data created through the App. We are not liable for any loss of such data. Our total liability to you shall not exceed the amount you paid for the App, if any.
 
-9. Changes and Termination
+8. Changes and Termination
 
 We may update these Terms at any time. The updated version will take effect upon posting at https://videotowallpaper.com/terms.html and will be notified via an in-app notification or email where applicable.
 
 We reserve the right to discontinue the App or restrict access to it without prior notice.
 
-10. Governing Law
+9. Governing Law
 
 These Terms are governed by the laws of Ukraine, without regard to its conflict of law principles. Any disputes arising from these Terms will be resolved through negotiation or, if necessary, in the courts of Ukraine.
 
-11. Contact Us
+10. Contact Us
 
 For questions about these Terms, email us at minipanda@ukr.net or visit https://videotowallpaper.com.
